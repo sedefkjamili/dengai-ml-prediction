@@ -98,8 +98,7 @@ Environmental variables such as temperature and vegetation indices were among th
 - Rabia Şevval Aydın
 - Sedef Kjamili
 
-Istanbul Technical University
-Machine Learning Course Term Project
+Istanbul Technical University - Machine Learning Course Term Project
 
 ## 📄 License
 
