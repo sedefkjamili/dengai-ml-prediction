@@ -89,10 +89,10 @@ Best performance was achieved using short-term forecasting horizons.
 Environmental variables such as temperature and vegetation indices were among the most influential features.
 
 ## 📚 Dataset Source
-DrivenData – DengAI: Predicting Disease Spread
-Climate and environmental datasets for:
-San Juan, Puerto Rico
-Iquitos, Peru
+- [DrivenData – DengAI: Predicting Disease Spread](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+- Climate and environmental datasets for:
+  - San Juan, Puerto Rico
+  - Iquitos, Peru
 
 ## 👩‍💻 Authors
 Rabia Şevval Aydın
