@@ -77,8 +77,9 @@ pip install -r requirements.txt
 
 Run the notebook:
 
+```bash
 jupyter notebook
-
+```
 or execute training scripts inside /src.
 
 ## 📊 Results
