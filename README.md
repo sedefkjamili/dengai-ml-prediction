@@ -51,3 +51,64 @@ DengAI/
 ├── src/                   # Source code for preprocessing and modeling
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
+```
+
+---
+
+## 🧪 Technologies & Libraries
+
+- Python 3.10+
+- scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/DengAI.git
+
+cd DengAI
+```
+
+##  Install dependencies:
+
+```bash
+pip install -r requirements.txt
+🧠 Model Training & Evaluation
+```
+
+Run the notebook:
+
+jupyter notebook
+
+or execute training scripts inside /src.
+
+## 📊 Results
+Gradient Boosting Regression significantly outperformed Polynomial Regression.
+Polynomial models showed overfitting at higher degrees.
+Best performance was achieved using short-term forecasting horizons.
+Environmental variables such as temperature and vegetation indices were among the most influential features.
+
+## 📚 Dataset Source
+DrivenData – DengAI: Predicting Disease Spread
+Climate and environmental datasets for:
+San Juan, Puerto Rico
+Iquitos, Peru
+
+## 👩‍💻 Authors
+Rabia Şevval Aydın
+Sedef Kjamili
+
+Istanbul Technical University
+BLG527E – Machine Learning Term Project
+
+## 📄 License
+
+This project is for academic and educational purposes.
