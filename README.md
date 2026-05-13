@@ -95,11 +95,11 @@ Environmental variables such as temperature and vegetation indices were among th
   - Iquitos, Peru
 
 ## 👩‍💻 Authors
-Rabia Şevval Aydın
-Sedef Kjamili
+- Rabia Şevval Aydın
+- Sedef Kjamili
 
 Istanbul Technical University
-BLG527E – Machine Learning Term Project
+Machine Learning Course Term Project
 
 ## 📄 License
 
