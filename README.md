@@ -3,15 +3,11 @@ Machine learning project for predicting dengue fever outbreaks using climate and
 
 DengAI is a machine learning project focused on predicting weekly dengue fever outbreaks using climate and environmental data. The project compares traditional regression techniques with ensemble learning methods to forecast dengue case counts for two tropical cities: San Juan (Puerto Rico) and Iquitos (Peru).
 
----
-
 ## 🚀 Overview
 
 Dengue fever is a mosquito-borne disease strongly influenced by environmental and climatic conditions such as temperature, humidity, precipitation, and vegetation. Early prediction of outbreaks can help public health organizations allocate resources more effectively and reduce the spread of disease.
 
 This project uses machine learning models trained on historical climate and epidemiological data from the DrivenData DengAI competition dataset.
-
----
 
 ## 🔍 Features
 
@@ -38,8 +34,6 @@ This project uses machine learning models trained on historical climate and epid
 - Forecasting horizon analysis
 - Feature importance visualization
 
----
-
 ## 🗂️ Repository Structure
 
 ```text
@@ -53,8 +47,6 @@ DengAI/
 └── README.md              # Project documentation
 ```
 
----
-
 ## 🧪 Technologies & Libraries
 
 - Python 3.10+
@@ -65,7 +57,6 @@ DengAI/
 - Seaborn
 - Jupyter Notebook
 
----
 
 ## ⚙️ Installation
 
